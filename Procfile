@@ -1,1 +1,1 @@
-web: python index_heroku.py -p $PORT
+web: python main.py -p $PORT
