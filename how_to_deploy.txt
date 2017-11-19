@@ -1,0 +1,8 @@
+mkdir deploy_web
+cd deploy_web
+git init
+heroku create --buildpack https://github.com/thenovices/heroku-buildpack-scipy
+echo -e "numpy==1.9.2\nscipy==0.15.1" > requirements.txt
+git add requirements.txt
+git commit -m 'Added requirements'
+git push heroku master

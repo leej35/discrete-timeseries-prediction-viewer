@@ -1,0 +1,3474 @@
+[
+    {
+        "text": "drug: acd-a citrate", 
+        "id": 0
+    }, 
+    {
+        "text": "drug: acetaminophen-iv", 
+        "id": 1
+    }, 
+    {
+        "text": "drug: acyclovir", 
+        "id": 2
+    }, 
+    {
+        "text": "drug: adenosine", 
+        "id": 3
+    }, 
+    {
+        "text": "drug: aggrastat", 
+        "id": 4
+    }, 
+    {
+        "text": "drug: albumin", 
+        "id": 5
+    }, 
+    {
+        "text": "drug: alteplase (tpa)", 
+        "id": 6
+    }, 
+    {
+        "text": "drug: ambisome", 
+        "id": 7
+    }, 
+    {
+        "text": "drug: amicar", 
+        "id": 8
+    }, 
+    {
+        "text": "drug: amikacin", 
+        "id": 9
+    }, 
+    {
+        "text": "drug: amino acids", 
+        "id": 10
+    }, 
+    {
+        "text": "drug: amiodarone", 
+        "id": 11
+    }, 
+    {
+        "text": "drug: ampho-b_gu", 
+        "id": 12
+    }, 
+    {
+        "text": "drug: amphotericin b", 
+        "id": 13
+    }, 
+    {
+        "text": "drug: ampicillin", 
+        "id": 14
+    }, 
+    {
+        "text": "drug: ampicillin/sulbactam (unasyn)", 
+        "id": 15
+    }, 
+    {
+        "text": "drug: angio intake", 
+        "id": 16
+    }, 
+    {
+        "text": "drug: aprotinin", 
+        "id": 17
+    }, 
+    {
+        "text": "drug: argatroban", 
+        "id": 18
+    }, 
+    {
+        "text": "drug: ativan", 
+        "id": 19
+    }, 
+    {
+        "text": "drug: atovaquone", 
+        "id": 20
+    }, 
+    {
+        "text": "drug: atracurium", 
+        "id": 21
+    }, 
+    {
+        "text": "drug: atropine", 
+        "id": 22
+    }, 
+    {
+        "text": "drug: azithromycin", 
+        "id": 23
+    }, 
+    {
+        "text": "drug: aztreonam", 
+        "id": 24
+    }, 
+    {
+        "text": "drug: bactrim (smx/tmp)", 
+        "id": 25
+    }, 
+    {
+        "text": "drug: bivalirudin", 
+        "id": 26
+    }, 
+    {
+        "text": "drug: bolus", 
+        "id": 27
+    }, 
+    {
+        "text": "drug: boost glucose control (full)", 
+        "id": 28
+    }, 
+    {
+        "text": "drug: br milk fs ng", 
+        "id": 29
+    }, 
+    {
+        "text": "drug: br milk fs po", 
+        "id": 30
+    }, 
+    {
+        "text": "drug: calcium chloride", 
+        "id": 31
+    }, 
+    {
+        "text": "drug: calcium gluconate", 
+        "id": 32
+    }, 
+    {
+        "text": "drug: carafate (sucralfate)", 
+        "id": 33
+    }, 
+    {
+        "text": "drug: carrier", 
+        "id": 34
+    }, 
+    {
+        "text": "drug: caspofungin", 
+        "id": 35
+    }, 
+    {
+        "text": "drug: cath lab intake", 
+        "id": 36
+    }, 
+    {
+        "text": "drug: cc/kg/hr", 
+        "id": 37
+    }, 
+    {
+        "text": "drug: cefazolin", 
+        "id": 38
+    }, 
+    {
+        "text": "drug: cefepime", 
+        "id": 39
+    }, 
+    {
+        "text": "drug: ceftazidime", 
+        "id": 40
+    }, 
+    {
+        "text": "drug: ceftriaxone", 
+        "id": 41
+    }, 
+    {
+        "text": "drug: cell saver", 
+        "id": 42
+    }, 
+    {
+        "text": "drug: ciprofloxacin", 
+        "id": 43
+    }, 
+    {
+        "text": "drug: cisatracurium", 
+        "id": 44
+    }, 
+    {
+        "text": "drug: citrate", 
+        "id": 45
+    }, 
+    {
+        "text": "drug: clindamycin", 
+        "id": 46
+    }, 
+    {
+        "text": "drug: colistin", 
+        "id": 47
+    }, 
+    {
+        "text": "drug: coumadin (warfarin)", 
+        "id": 48
+    }, 
+    {
+        "text": "drug: cryoprecipitate", 
+        "id": 49
+    }, 
+    {
+        "text": "drug: cyclosporine", 
+        "id": 50
+    }, 
+    {
+        "text": "drug: d10w", 
+        "id": 51
+    }, 
+    {
+        "text": "drug: d10w flush", 
+        "id": 52
+    }, 
+    {
+        "text": "drug: d15w", 
+        "id": 53
+    }, 
+    {
+        "text": "drug: d17.5w", 
+        "id": 54
+    }, 
+    {
+        "text": "drug: d20w", 
+        "id": 55
+    }, 
+    {
+        "text": "drug: d5 normal saline", 
+        "id": 56
+    }, 
+    {
+        "text": "drug: d5 ringers lact.", 
+        "id": 57
+    }, 
+    {
+        "text": "drug: d5lr", 
+        "id": 58
+    }, 
+    {
+        "text": "drug: d5ns", 
+        "id": 59
+    }, 
+    {
+        "text": "drug: d5rl", 
+        "id": 60
+    }, 
+    {
+        "text": "drug: daptomycin", 
+        "id": 61
+    }, 
+    {
+        "text": "drug: dexmedetomidine (precedex)", 
+        "id": 62
+    }, 
+    {
+        "text": "drug: dextran 40", 
+        "id": 63
+    }, 
+    {
+        "text": "drug: diazepam (valium)", 
+        "id": 64
+    }, 
+    {
+        "text": "drug: dilantin", 
+        "id": 65
+    }, 
+    {
+        "text": "drug: dilaudid", 
+        "id": 66
+    }, 
+    {
+        "text": "drug: diltiazem", 
+        "id": 67
+    }, 
+    {
+        "text": "drug: dobutamine", 
+        "id": 68
+    }, 
+    {
+        "text": "drug: dopamine", 
+        "id": 69
+    }, 
+    {
+        "text": "drug: doxacurium", 
+        "id": 70
+    }, 
+    {
+        "text": "drug: doxycycline", 
+        "id": 71
+    }, 
+    {
+        "text": "drug: ed ivf", 
+        "id": 72
+    }, 
+    {
+        "text": "drug: enoxaparin (lovenox)", 
+        "id": 73
+    }, 
+    {
+        "text": "drug: epinephrine", 
+        "id": 74
+    }, 
+    {
+        "text": "drug: epinephrine-k", 
+        "id": 75
+    }, 
+    {
+        "text": "drug: eptifibatide (integrilin)", 
+        "id": 76
+    }, 
+    {
+        "text": "drug: erythromycin", 
+        "id": 77
+    }, 
+    {
+        "text": "drug: esmolol", 
+        "id": 78
+    }, 
+    {
+        "text": "drug: famotidine (pepcid)", 
+        "id": 79
+    }, 
+    {
+        "text": "drug: fentanyl", 
+        "id": 80
+    }, 
+    {
+        "text": "drug: fluconazole", 
+        "id": 81
+    }, 
+    {
+        "text": "drug: fluid bolus", 
+        "id": 82
+    }, 
+    {
+        "text": "drug: folate", 
+        "id": 83
+    }, 
+    {
+        "text": "drug: folic acid", 
+        "id": 84
+    }, 
+    {
+        "text": "drug: fondaparinux", 
+        "id": 85
+    }, 
+    {
+        "text": "drug: fosphenytoin", 
+        "id": 86
+    }, 
+    {
+        "text": "drug: free water", 
+        "id": 87
+    }, 
+    {
+        "text": "drug: free water bolus", 
+        "id": 88
+    }, 
+    {
+        "text": "drug: fresh frozen plasma", 
+        "id": 89
+    }, 
+    {
+        "text": "drug: furosemide (lasix)", 
+        "id": 90
+    }, 
+    {
+        "text": "drug: gancyclovir", 
+        "id": 91
+    }, 
+    {
+        "text": "drug: gentamicin", 
+        "id": 92
+    }, 
+    {
+        "text": "drug: haloperidol (haldol)", 
+        "id": 93
+    }, 
+    {
+        "text": "drug: hd", 
+        "id": 94
+    }, 
+    {
+        "text": "drug: heparin", 
+        "id": 95
+    }, 
+    {
+        "text": "drug: heparin sodium", 
+        "id": 96
+    }, 
+    {
+        "text": "drug: hydralazine", 
+        "id": 97
+    }, 
+    {
+        "text": "drug: hydromorphone (dilaudid)", 
+        "id": 98
+    }, 
+    {
+        "text": "drug: imipenem/cilastatin", 
+        "id": 99
+    }, 
+    {
+        "text": "drug: insulin", 
+        "id": 100
+    }, 
+    {
+        "text": "drug: insulin - 70/30", 
+        "id": 101
+    }, 
+    {
+        "text": "drug: insulin - glargine", 
+        "id": 102
+    }, 
+    {
+        "text": "drug: insulin - humalog", 
+        "id": 103
+    }, 
+    {
+        "text": "drug: insulin - nph", 
+        "id": 104
+    }, 
+    {
+        "text": "drug: insulin - regular", 
+        "id": 105
+    }, 
+    {
+        "text": "drug: insulin drip", 
+        "id": 106
+    }, 
+    {
+        "text": "drug: integrelin", 
+        "id": 107
+    }, 
+    {
+        "text": "drug: iv immune globulin (ivig)", 
+        "id": 108
+    }, 
+    {
+        "text": "drug: k phos", 
+        "id": 109
+    }, 
+    {
+        "text": "drug: kcl", 
+        "id": 110
+    }, 
+    {
+        "text": "drug: kcl (bolus)", 
+        "id": 111
+    }, 
+    {
+        "text": "drug: kcl (crrt)", 
+        "id": 112
+    }, 
+    {
+        "text": "drug: keflex", 
+        "id": 113
+    }, 
+    {
+        "text": "drug: keppra", 
+        "id": 114
+    }, 
+    {
+        "text": "drug: ketamine", 
+        "id": 115
+    }, 
+    {
+        "text": "drug: labetalol", 
+        "id": 116
+    }, 
+    {
+        "text": "drug: labetolol", 
+        "id": 117
+    }, 
+    {
+        "text": "drug: lactated ringers", 
+        "id": 118
+    }, 
+    {
+        "text": "drug: lansoprazole (prevacid)", 
+        "id": 119
+    }, 
+    {
+        "text": "drug: lasix", 
+        "id": 120
+    }, 
+    {
+        "text": "drug: lepirudin", 
+        "id": 121
+    }, 
+    {
+        "text": "drug: levofloxacin", 
+        "id": 122
+    }, 
+    {
+        "text": "drug: levophed", 
+        "id": 123
+    }, 
+    {
+        "text": "drug: levophed-k", 
+        "id": 124
+    }, 
+    {
+        "text": "drug: lidocaine", 
+        "id": 125
+    }, 
+    {
+        "text": "drug: linezolid", 
+        "id": 126
+    }, 
+    {
+        "text": "drug: lipids", 
+        "id": 127
+    }, 
+    {
+        "text": "drug: lorazepam (ativan)", 
+        "id": 128
+    }, 
+    {
+        "text": "drug: lr", 
+        "id": 129
+    }, 
+    {
+        "text": "drug: magnesium sulfate", 
+        "id": 130
+    }, 
+    {
+        "text": "drug: magnesium sulfate (bolus)", 
+        "id": 131
+    }, 
+    {
+        "text": "drug: magnesium sulfate (ob-gyn)", 
+        "id": 132
+    }, 
+    {
+        "text": "drug: mannitol", 
+        "id": 133
+    }, 
+    {
+        "text": "drug: meperidine (demerol)", 
+        "id": 134
+    }, 
+    {
+        "text": "drug: meropenem", 
+        "id": 135
+    }, 
+    {
+        "text": "drug: methadone hydrochloride", 
+        "id": 136
+    }, 
+    {
+        "text": "drug: metoprolol", 
+        "id": 137
+    }, 
+    {
+        "text": "drug: metronidazole", 
+        "id": 138
+    }, 
+    {
+        "text": "drug: micafungin", 
+        "id": 139
+    }, 
+    {
+        "text": "drug: midazolam", 
+        "id": 140
+    }, 
+    {
+        "text": "drug: milrinone", 
+        "id": 141
+    }, 
+    {
+        "text": "drug: morphine sulfate", 
+        "id": 142
+    }, 
+    {
+        "text": "drug: multivitamins", 
+        "id": 143
+    }, 
+    {
+        "text": "drug: na phos", 
+        "id": 144
+    }, 
+    {
+        "text": "drug: nacl", 
+        "id": 145
+    }, 
+    {
+        "text": "drug: nafcillin", 
+        "id": 146
+    }, 
+    {
+        "text": "drug: naloxone (narcan)", 
+        "id": 147
+    }, 
+    {
+        "text": "drug: narcan", 
+        "id": 148
+    }, 
+    {
+        "text": "drug: natrecor", 
+        "id": 149
+    }, 
+    {
+        "text": "drug: neosynephrine", 
+        "id": 150
+    }, 
+    {
+        "text": "drug: neosynephrine-k", 
+        "id": 151
+    }, 
+    {
+        "text": "drug: nicardipine", 
+        "id": 152
+    }, 
+    {
+        "text": "drug: nitroglycerine", 
+        "id": 153
+    }, 
+    {
+        "text": "drug: nitroglycerine-k", 
+        "id": 154
+    }, 
+    {
+        "text": "drug: nitroprusside", 
+        "id": 155
+    }, 
+    {
+        "text": "drug: norepinephrine", 
+        "id": 156
+    }, 
+    {
+        "text": "drug: ns", 
+        "id": 157
+    }, 
+    {
+        "text": "drug: ns+heparin", 
+        "id": 158
+    }, 
+    {
+        "text": "drug: octreotide", 
+        "id": 159
+    }, 
+    {
+        "text": "drug: omeprazole (prilosec)", 
+        "id": 160
+    }, 
+    {
+        "text": "drug: or autologous blood", 
+        "id": 161
+    }, 
+    {
+        "text": "drug: or cell saver intake", 
+        "id": 162
+    }, 
+    {
+        "text": "drug: or colloid", 
+        "id": 163
+    }, 
+    {
+        "text": "drug: or cryoprecipitate intake", 
+        "id": 164
+    }, 
+    {
+        "text": "drug: or crystalloid", 
+        "id": 165
+    }, 
+    {
+        "text": "drug: or ffp", 
+        "id": 166
+    }, 
+    {
+        "text": "drug: or packed rbc ", 
+        "id": 167
+    }, 
+    {
+        "text": "drug: or platelets", 
+        "id": 168
+    }, 
+    {
+        "text": "drug: other blood products", 
+        "id": 169
+    }, 
+    {
+        "text": "drug: packed red blood cells", 
+        "id": 170
+    }, 
+    {
+        "text": "drug: pacu colloids", 
+        "id": 171
+    }, 
+    {
+        "text": "drug: pacu crystalloids", 
+        "id": 172
+    }, 
+    {
+        "text": "drug: pacu ffp intake", 
+        "id": 173
+    }, 
+    {
+        "text": "drug: pacu packed rbc intake", 
+        "id": 174
+    }, 
+    {
+        "text": "drug: pacu po intake", 
+        "id": 175
+    }, 
+    {
+        "text": "drug: pancuronium", 
+        "id": 176
+    }, 
+    {
+        "text": "drug: pantoprazole", 
+        "id": 177
+    }, 
+    {
+        "text": "drug: penicillin g potassium", 
+        "id": 178
+    }, 
+    {
+        "text": "drug: pentobarbital", 
+        "id": 179
+    }, 
+    {
+        "text": "drug: pentobarbitol", 
+        "id": 180
+    }, 
+    {
+        "text": "drug: phenylephrine", 
+        "id": 181
+    }, 
+    {
+        "text": "drug: piperacillin", 
+        "id": 182
+    }, 
+    {
+        "text": "drug: piperacillin/tazobactam (zosyn)", 
+        "id": 183
+    }, 
+    {
+        "text": "drug: plasma pheresis", 
+        "id": 184
+    }, 
+    {
+        "text": "drug: platelets", 
+        "id": 185
+    }, 
+    {
+        "text": "drug: po intake", 
+        "id": 186
+    }, 
+    {
+        "text": "drug: potassium acetate", 
+        "id": 187
+    }, 
+    {
+        "text": "drug: potassium chloride", 
+        "id": 188
+    }, 
+    {
+        "text": "drug: potassium phosphate", 
+        "id": 189
+    }, 
+    {
+        "text": "drug: prbc's", 
+        "id": 190
+    }, 
+    {
+        "text": "drug: precedex", 
+        "id": 191
+    }, 
+    {
+        "text": "drug: probalance", 
+        "id": 192
+    }, 
+    {
+        "text": "drug: procainamide", 
+        "id": 193
+    }, 
+    {
+        "text": "drug: promod", 
+        "id": 194
+    }, 
+    {
+        "text": "drug: propofol", 
+        "id": 195
+    }, 
+    {
+        "text": "drug: protonix", 
+        "id": 196
+    }, 
+    {
+        "text": "drug: ranitidine (prophylaxis)", 
+        "id": 197
+    }, 
+    {
+        "text": "drug: regular insulin", 
+        "id": 198
+    }, 
+    {
+        "text": "drug: reopro", 
+        "id": 199
+    }, 
+    {
+        "text": "drug: rifampin", 
+        "id": 200
+    }, 
+    {
+        "text": "drug: sodium acetate", 
+        "id": 201
+    }, 
+    {
+        "text": "drug: sodium bicarbonate", 
+        "id": 202
+    }, 
+    {
+        "text": "drug: sodium chloride", 
+        "id": 203
+    }, 
+    {
+        "text": "drug: sodium phosphate", 
+        "id": 204
+    }, 
+    {
+        "text": "drug: solumedrol", 
+        "id": 205
+    }, 
+    {
+        "text": "drug: tamiflu", 
+        "id": 206
+    }, 
+    {
+        "text": "drug: tham", 
+        "id": 207
+    }, 
+    {
+        "text": "drug: thiamine", 
+        "id": 208
+    }, 
+    {
+        "text": "drug: tirofiban (aggrastat)", 
+        "id": 209
+    }, 
+    {
+        "text": "drug: tobramycin", 
+        "id": 210
+    }, 
+    {
+        "text": "drug: valgancyclovir", 
+        "id": 211
+    }, 
+    {
+        "text": "drug: vancomycin", 
+        "id": 212
+    }, 
+    {
+        "text": "drug: vasopressin", 
+        "id": 213
+    }, 
+    {
+        "text": "drug: vecuronium", 
+        "id": 214
+    }, 
+    {
+        "text": "drug: verapamil", 
+        "id": 215
+    }, 
+    {
+        "text": "drug: vitamin k (phytonadione)", 
+        "id": 216
+    }, 
+    {
+        "text": "drug: vivonex", 
+        "id": 217
+    }, 
+    {
+        "text": "drug: voriconazole", 
+        "id": 218
+    }, 
+    {
+        "text": "drug: washed prbc's", 
+        "id": 219
+    }, 
+    {
+        "text": "drug: whole blood", 
+        "id": 220
+    }, 
+    {
+        "text": "drug: xigris", 
+        "id": 221
+    }, 
+    {
+        "text": "lab_abnm: Blood__Blood Gas__Free Calcium", 
+        "id": 222
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Creatinine", 
+        "id": 223
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Glucose", 
+        "id": 224
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Urea Nitrogen", 
+        "id": 225
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Vancomycin", 
+        "id": 226
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Hematocrit", 
+        "id": 227
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Calcium, Total", 
+        "id": 228
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Creatine Kinase (CK)", 
+        "id": 229
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Hemoglobin", 
+        "id": 230
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Lymphocytes", 
+        "id": 231
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Neutrophils", 
+        "id": 232
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Red Blood Cells", 
+        "id": 233
+    }, 
+    {
+        "text": "lab_abnm: Urine__Hematology__Hyaline Casts", 
+        "id": 234
+    }, 
+    {
+        "text": "lab_abnm: Urine__Hematology__WBC", 
+        "id": 235
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Chloride", 
+        "id": 236
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Phosphate", 
+        "id": 237
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Potassium", 
+        "id": 238
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Asparate Aminotransferase (AST)", 
+        "id": 239
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Bicarbonate", 
+        "id": 240
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__RDW", 
+        "id": 241
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__White Blood Cells", 
+        "id": 242
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__PTT", 
+        "id": 243
+    }, 
+    {
+        "text": "lab_abnm: Blood__Blood Gas__Hemoglobin", 
+        "id": 244
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Troponin I", 
+        "id": 245
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Platelet Count", 
+        "id": 246
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__PT", 
+        "id": 247
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Albumin", 
+        "id": 248
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Anion Gap", 
+        "id": 249
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Uric Acid", 
+        "id": 250
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Fibrinogen, Functional", 
+        "id": 251
+    }, 
+    {
+        "text": "lab_abnm: Blood__Blood Gas__Glucose", 
+        "id": 252
+    }, 
+    {
+        "text": "lab_abnm: Blood__Blood Gas__Lactate", 
+        "id": 253
+    }, 
+    {
+        "text": "lab_abnm: Blood__Blood Gas__Calculated Bicarbonate, Whole Blood", 
+        "id": 254
+    }, 
+    {
+        "text": "lab_abnm: Blood__Blood Gas__Chloride, Whole Blood", 
+        "id": 255
+    }, 
+    {
+        "text": "lab_abnm: Blood__Blood Gas__Sodium, Whole Blood", 
+        "id": 256
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Magnesium", 
+        "id": 257
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__MCH", 
+        "id": 258
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__MCHC", 
+        "id": 259
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__MCV", 
+        "id": 260
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Nucleated Red Cells", 
+        "id": 261
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Eosinophils", 
+        "id": 262
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Triglycerides", 
+        "id": 263
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Absolute CD3 Count", 
+        "id": 264
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Absolute CD4 Count", 
+        "id": 265
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__CD4/CD8 Ratio", 
+        "id": 266
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__WBC Count", 
+        "id": 267
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Alkaline Phosphatase", 
+        "id": 268
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Bilirubin, Direct", 
+        "id": 269
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Bilirubin, Total", 
+        "id": 270
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Gamma Glutamyltransferase", 
+        "id": 271
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Sodium", 
+        "id": 272
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Absolute CD8 Count", 
+        "id": 273
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Bands", 
+        "id": 274
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Monocytes", 
+        "id": 275
+    }, 
+    {
+        "text": "lab_abnm: Blood__Blood Gas__pH", 
+        "id": 276
+    }, 
+    {
+        "text": "lab_abnm: Blood__Blood Gas__Calculated Total CO2", 
+        "id": 277
+    }, 
+    {
+        "text": "lab_abnm: Blood__Blood Gas__pCO2", 
+        "id": 278
+    }, 
+    {
+        "text": "lab_abnm: Blood__Blood Gas__pO2", 
+        "id": 279
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__D-Dimer", 
+        "id": 280
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Reticulocyte Count, Automated", 
+        "id": 281
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Ferritin", 
+        "id": 282
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Iron Binding Capacity, Total", 
+        "id": 283
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Transferrin", 
+        "id": 284
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__CK-MB Index", 
+        "id": 285
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Creatine Kinase, MB Isoenzyme", 
+        "id": 286
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Osmolality, Measured", 
+        "id": 287
+    }, 
+    {
+        "text": "lab_abnm: Urine__Hematology__RBC", 
+        "id": 288
+    }, 
+    {
+        "text": "lab_abnm: Blood__Blood Gas__Potassium, Whole Blood", 
+        "id": 289
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Alanine Aminotransferase (ALT)", 
+        "id": 290
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Lipase", 
+        "id": 291
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Metamyelocytes", 
+        "id": 292
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Lactate Dehydrogenase (LD)", 
+        "id": 293
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Atypical Lymphocytes", 
+        "id": 294
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__% Hemoglobin A1c", 
+        "id": 295
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Iron", 
+        "id": 296
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Thyroid Stimulating Hormone", 
+        "id": 297
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Amylase", 
+        "id": 298
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Cholesterol, LDL, Calculated", 
+        "id": 299
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Cholesterol, Total", 
+        "id": 300
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Cholesterol, LDL, Measured", 
+        "id": 301
+    }, 
+    {
+        "text": "lab_abnm: Urine__Chemistry__Protein/Creatinine Ratio", 
+        "id": 302
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Cortisol", 
+        "id": 303
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Parathyroid Hormone", 
+        "id": 304
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Thyroxine (T4), Free", 
+        "id": 305
+    }, 
+    {
+        "text": "lab_abnm: Ascites__Hematology__Hematocrit, Ascites", 
+        "id": 306
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__tacroFK", 
+        "id": 307
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Protein, Total", 
+        "id": 308
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Myelocytes", 
+        "id": 309
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Sedimentation Rate", 
+        "id": 310
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Phenytoin", 
+        "id": 311
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Troponin T", 
+        "id": 312
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Eosinophil Count", 
+        "id": 313
+    }, 
+    {
+        "text": "lab_abnm: Urine__Hematology__Specific Gravity", 
+        "id": 314
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__INR(PT)", 
+        "id": 315
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__C-Reactive Protein", 
+        "id": 316
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Follicle Stimulating Hormone", 
+        "id": 317
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Hypersegmented Neutrophils", 
+        "id": 318
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Carcinoembyronic Antigen (CEA)", 
+        "id": 319
+    }, 
+    {
+        "text": "lab_abnm: Urine__Hematology__Urobilinogen", 
+        "id": 320
+    }, 
+    {
+        "text": "lab_abnm: Cerebrospinal Fluid (CSF)__Chemistry__Total Protein, CSF", 
+        "id": 321
+    }, 
+    {
+        "text": "lab_abnm: Cerebrospinal Fluid (CSF)__Hematology__RBC, CSF", 
+        "id": 322
+    }, 
+    {
+        "text": "lab_abnm: Urine__Chemistry__Albumin/Creatinine, Urine", 
+        "id": 323
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__NTproBNP", 
+        "id": 324
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Basophils", 
+        "id": 325
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Digoxin", 
+        "id": 326
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Procainamide", 
+        "id": 327
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Homocysteine", 
+        "id": 328
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Granulocyte Count", 
+        "id": 329
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Phenytoin, Free", 
+        "id": 330
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Phenytoin, Percent Free", 
+        "id": 331
+    }, 
+    {
+        "text": "lab_abnm: Ascites__Hematology__Lymphocytes", 
+        "id": 332
+    }, 
+    {
+        "text": "lab_abnm: Ascites__Hematology__Macrophage", 
+        "id": 333
+    }, 
+    {
+        "text": "lab_abnm: Ascites__Hematology__Mesothelial Cell", 
+        "id": 334
+    }, 
+    {
+        "text": "lab_abnm: Ascites__Hematology__RBC, Ascites", 
+        "id": 335
+    }, 
+    {
+        "text": "lab_abnm: Ascites__Hematology__WBC, Ascites", 
+        "id": 336
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Haptoglobin", 
+        "id": 337
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Gentamicin", 
+        "id": 338
+    }, 
+    {
+        "text": "lab_abnm: Ascites__Hematology__Monocytes", 
+        "id": 339
+    }, 
+    {
+        "text": "lab_abnm: Ascites__Hematology__Polys", 
+        "id": 340
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Promyelocytes", 
+        "id": 341
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Ammonia", 
+        "id": 342
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Fibrin Degradation Products", 
+        "id": 343
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Vitamin B12", 
+        "id": 344
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Young Cells", 
+        "id": 345
+    }, 
+    {
+        "text": "lab_abnm: BLOOD__CHEMISTRY__Estimated Actual Glucose", 
+        "id": 346
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Thyroxine (T4)", 
+        "id": 347
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Immunoglobulin G", 
+        "id": 348
+    }, 
+    {
+        "text": "lab_abnm: Pleural__Hematology__Lymphocytes", 
+        "id": 349
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Immunoglobulin M", 
+        "id": 350
+    }, 
+    {
+        "text": "lab_abnm: Pleural__Hematology__Mesothelial Cells", 
+        "id": 351
+    }, 
+    {
+        "text": "lab_abnm: Pleural__Hematology__Monos", 
+        "id": 352
+    }, 
+    {
+        "text": "lab_abnm: Pleural__Hematology__Polys", 
+        "id": 353
+    }, 
+    {
+        "text": "lab_abnm: Pleural__Hematology__RBC, Pleural", 
+        "id": 354
+    }, 
+    {
+        "text": "lab_abnm: Pleural__Hematology__WBC, Pleural", 
+        "id": 355
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Blasts", 
+        "id": 356
+    }, 
+    {
+        "text": "lab_abnm: Other Body Fluid__Hematology__Lymphocytes", 
+        "id": 357
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Reticulocyte Count, Manual", 
+        "id": 358
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Lymphocytes, Percent", 
+        "id": 359
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Ethanol", 
+        "id": 360
+    }, 
+    {
+        "text": "lab_abnm: Urine__Hematology__Granular Casts", 
+        "id": 361
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Other Cells", 
+        "id": 362
+    }, 
+    {
+        "text": "lab_abnm: Urine__Hematology__pH", 
+        "id": 363
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Prolactin", 
+        "id": 364
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Immunoglobulin A", 
+        "id": 365
+    }, 
+    {
+        "text": "lab_abnm: Other Body Fluid__Hematology__Monos", 
+        "id": 366
+    }, 
+    {
+        "text": "lab_abnm: Other Body Fluid__Hematology__Other Cell", 
+        "id": 367
+    }, 
+    {
+        "text": "lab_abnm: Other Body Fluid__Hematology__Polys", 
+        "id": 368
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__C3", 
+        "id": 369
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__C4", 
+        "id": 370
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Triiodothyronine (T3)", 
+        "id": 371
+    }, 
+    {
+        "text": "lab_abnm: Ascites__Hematology__Other", 
+        "id": 372
+    }, 
+    {
+        "text": "lab_abnm: Other Body Fluid__Hematology__RBC, Other Fluid", 
+        "id": 373
+    }, 
+    {
+        "text": "lab_abnm: Other Body Fluid__Hematology__WBC, Other Fluid", 
+        "id": 374
+    }, 
+    {
+        "text": "lab_abnm: Joint Fluid__Hematology__RBC, Joint Fluid", 
+        "id": 375
+    }, 
+    {
+        "text": "lab_abnm: Joint Fluid__Hematology__WBC, Joint Fluid", 
+        "id": 376
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Testosterone, Free", 
+        "id": 377
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__D-Dimer", 
+        "id": 378
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__DHEA-Sulfate", 
+        "id": 379
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Thrombin", 
+        "id": 380
+    }, 
+    {
+        "text": "lab_abnm: Other Body Fluid__Hematology__Macrophage", 
+        "id": 381
+    }, 
+    {
+        "text": "lab_abnm: Other Body Fluid__Hematology__Mesothelial cells", 
+        "id": 382
+    }, 
+    {
+        "text": "lab_abnm: Ascites__Hematology__Atypical Lymphocytes", 
+        "id": 383
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Protein C, Antigen", 
+        "id": 384
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Protein C, Functional", 
+        "id": 385
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Rapamycin", 
+        "id": 386
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Carbamazepine", 
+        "id": 387
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Valproic Acid", 
+        "id": 388
+    }, 
+    {
+        "text": "lab_abnm: Other Body Fluid__Hematology__Atypical Lymphocytes", 
+        "id": 389
+    }, 
+    {
+        "text": "lab_abnm: Pleural__Hematology__Macrophages", 
+        "id": 390
+    }, 
+    {
+        "text": "lab_abnm: Pleural__Hematology__Other", 
+        "id": 391
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Testosterone", 
+        "id": 392
+    }, 
+    {
+        "text": "lab_abnm: Pleural__Hematology__Eosinophils", 
+        "id": 393
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Prostate Specific Antigen", 
+        "id": 394
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Estradiol", 
+        "id": 395
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Luteinizing Hormone", 
+        "id": 396
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Alpha-Fetoprotein", 
+        "id": 397
+    }, 
+    {
+        "text": "lab_abnm: Joint Fluid__Hematology__Polys", 
+        "id": 398
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Lithium", 
+        "id": 399
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Gastrin", 
+        "id": 400
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Globulin", 
+        "id": 401
+    }, 
+    {
+        "text": "lab_abnm: Ascites__Hematology__Plasma", 
+        "id": 402
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Theophylline", 
+        "id": 403
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Phenobarbital", 
+        "id": 404
+    }, 
+    {
+        "text": "lab_abnm: Other Body Fluid__Hematology__Hematocrit, Other Fluid", 
+        "id": 405
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Tobramycin", 
+        "id": 406
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Cyclosporin", 
+        "id": 407
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Quantitative G6PD", 
+        "id": 408
+    }, 
+    {
+        "text": "lab_abnm: Pleural__Hematology__Basophils", 
+        "id": 409
+    }, 
+    {
+        "text": "lab_abnm: Urine__Hematology__Urine Casts, Other", 
+        "id": 410
+    }, 
+    {
+        "text": "lab_abnm: Other Body Fluid__Hematology__Bands", 
+        "id": 411
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Plasma Cells", 
+        "id": 412
+    }, 
+    {
+        "text": "lab_abnm: Joint Fluid__Hematology__Other", 
+        "id": 413
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Antithrombin", 
+        "id": 414
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Calculated Thyroxine (T4) Index", 
+        "id": 415
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Heparin", 
+        "id": 416
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Beta-2 Microglobulin", 
+        "id": 417
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__CA-125", 
+        "id": 418
+    }, 
+    {
+        "text": "lab_abnm: Ascites__Hematology__Bands", 
+        "id": 419
+    }, 
+    {
+        "text": "lab_abnm: Ascites__Hematology__Eosinophils", 
+        "id": 420
+    }, 
+    {
+        "text": "lab_abnm: Pleural__Hematology__Atypical Lymphocytes", 
+        "id": 421
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Hemoglobin A2", 
+        "id": 422
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Factor VII", 
+        "id": 423
+    }, 
+    {
+        "text": "lab_abnm: Blood__Blood Gas__Methemoglobin", 
+        "id": 424
+    }, 
+    {
+        "text": "lab_abnm: Other Body Fluid__Hematology__Eosinophils", 
+        "id": 425
+    }, 
+    {
+        "text": "lab_abnm: Pleural__Hematology__Plasma Cells", 
+        "id": 426
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Anticardiolipin Antibody IgM", 
+        "id": 427
+    }, 
+    {
+        "text": "lab_abnm: Urine__Chemistry__Creatinine Clearance", 
+        "id": 428
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Factor XI", 
+        "id": 429
+    }, 
+    {
+        "text": "lab_abnm: Pleural__Hematology__Hematocrit, Pleural", 
+        "id": 430
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Anticardiolipin Antibody IgG", 
+        "id": 431
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Factor VIII", 
+        "id": 432
+    }, 
+    {
+        "text": "lab_abnm: Joint Fluid__Hematology__Hematocrit, Joint Fluid", 
+        "id": 433
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Hepatitis C Virus Antibody", 
+        "id": 434
+    }, 
+    {
+        "text": "lab_abnm: Blood__Blood Gas__Carboxyhemoglobin", 
+        "id": 435
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Acetaminophen", 
+        "id": 436
+    }, 
+    {
+        "text": "lab_abnm: Pleural__Hematology__Bands", 
+        "id": 437
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Protein S, Functional", 
+        "id": 438
+    }, 
+    {
+        "text": "lab_abnm: Other Body Fluid__Hematology__Basophils", 
+        "id": 439
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Protein S, Antigen", 
+        "id": 440
+    }, 
+    {
+        "text": "lab_abnm: Ascites__Hematology__Basophils", 
+        "id": 441
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Salicylate", 
+        "id": 442
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Rheumatoid Factor", 
+        "id": 443
+    }, 
+    {
+        "text": "lab_abnm: Joint Fluid__Hematology__Bands", 
+        "id": 444
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Von Willebrand Factor Activity", 
+        "id": 445
+    }, 
+    {
+        "text": "lab_abnm: Pleural__Hematology__NRBC", 
+        "id": 446
+    }, 
+    {
+        "text": "lab_abnm: Cerebrospinal Fluid (CSF)__Hematology__Hematocrit, CSF", 
+        "id": 447
+    }, 
+    {
+        "text": "lab_abnm: Other Body Fluid__Hematology__NRBC", 
+        "id": 448
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Leukocyte Alkaline Phosphatase", 
+        "id": 449
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Anti-Nuclear Antibody", 
+        "id": 450
+    }, 
+    {
+        "text": "lab_abnm: Urine__Hematology__Cellular Cast", 
+        "id": 451
+    }, 
+    {
+        "text": "lab_abnm: Urine__Hematology__RBC Casts", 
+        "id": 452
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Hepatitis B Surface Antigen", 
+        "id": 453
+    }, 
+    {
+        "text": "lab_abnm: Joint Fluid__Hematology__Lymphocytes", 
+        "id": 454
+    }, 
+    {
+        "text": "lab_abnm: Joint Fluid__Hematology__Mesothelial Cells", 
+        "id": 455
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Bleeding Time", 
+        "id": 456
+    }, 
+    {
+        "text": "lab_abnm: Joint Fluid__Hematology__Eosinophils", 
+        "id": 457
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Reptilase Time", 
+        "id": 458
+    }, 
+    {
+        "text": "lab_abnm: Pleural__Hematology__Myelocytes", 
+        "id": 459
+    }, 
+    {
+        "text": "lab_abnm: Joint Fluid__Hematology__Basophils", 
+        "id": 460
+    }, 
+    {
+        "text": "lab_abnm: BLOOD__CHEMISTRY__ACID PHOSPHATASE, PROSTATIC", 
+        "id": 461
+    }, 
+    {
+        "text": "lab_abnm: BLOOD__CHEMISTRY__FRUCAMN+", 
+        "id": 462
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Thyroglobulin", 
+        "id": 463
+    }, 
+    {
+        "text": "lab_abnm: Joint Fluid__Hematology__Atypical Lymphocytes", 
+        "id": 464
+    }, 
+    {
+        "text": "lab_abnm: Ascites__Hematology__Nucleated RBC", 
+        "id": 465
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Anti-Thyroglobulin Antibodies", 
+        "id": 466
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Cancer Antigen 27.29", 
+        "id": 467
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Factor V", 
+        "id": 468
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Hemogloblin S", 
+        "id": 469
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Von Willebrand Factor Antigen", 
+        "id": 470
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Reticulocyte, Cellular Hemoglobin", 
+        "id": 471
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Serum Viscosity", 
+        "id": 472
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Thyroid Peroxidase Antibodies", 
+        "id": 473
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Calculated TBG", 
+        "id": 474
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Uptake Ratio", 
+        "id": 475
+    }, 
+    {
+        "text": "lab_abnm: Urine__Hematology__Waxy Casts", 
+        "id": 476
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Hemoglobin F", 
+        "id": 477
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Tissue Transglutaminase Ab, IgA", 
+        "id": 478
+    }, 
+    {
+        "text": "lab_abnm: Other Body Fluid__Hematology__Metamyelocytes", 
+        "id": 479
+    }, 
+    {
+        "text": "lab_abnm: Urine__Hematology__WBC Casts", 
+        "id": 480
+    }, 
+    {
+        "text": "lab_abnm: Joint Fluid__Hematology__Monocytes", 
+        "id": 481
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Folate", 
+        "id": 482
+    }, 
+    {
+        "text": "lab_abnm: Urine__Hematology__Broad Casts", 
+        "id": 483
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Acid Phosphatase", 
+        "id": 484
+    }, 
+    {
+        "text": "lab_abnm: Joint Fluid__Hematology__NRBC", 
+        "id": 485
+    }, 
+    {
+        "text": "lab_abnm: Pleural__Hematology__Metamyelocytes", 
+        "id": 486
+    }, 
+    {
+        "text": "lab_abnm: Blood__Blood Gas__Base Excess", 
+        "id": 487
+    }, 
+    {
+        "text": "lab_abnm: Blood__Blood Gas__Oxygen", 
+        "id": 488
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Quinidine", 
+        "id": 489
+    }, 
+    {
+        "text": "lab_abnm: Pleural__Hematology__Young Cells", 
+        "id": 490
+    }, 
+    {
+        "text": "lab_abnm: Other Body Fluid__Hematology__Myelocytes", 
+        "id": 491
+    }, 
+    {
+        "text": "lab_abnm: Joint Fluid__Hematology__Macrophage", 
+        "id": 492
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Factor II", 
+        "id": 493
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Factor IX", 
+        "id": 494
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__25-OH Vitamin D", 
+        "id": 495
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Calculated Free Testosterone", 
+        "id": 496
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Factor X", 
+        "id": 497
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Factor XII", 
+        "id": 498
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Reticulocyte Count, Absolute", 
+        "id": 499
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__HIV Antibody", 
+        "id": 500
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Anti-Smooth Muscle Antibody", 
+        "id": 501
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Alpha Antiplasmin", 
+        "id": 502
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Centromere", 
+        "id": 503
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Amikacin", 
+        "id": 504
+    }, 
+    {
+        "text": "lab_abnm: Ascites__Hematology__Metamyelocytes", 
+        "id": 505
+    }, 
+    {
+        "text": "lab_abnm: Ascites__Hematology__Myelocytes", 
+        "id": 506
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Anti-Gliadin Antibody, IgA", 
+        "id": 507
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Hemoglobin C", 
+        "id": 508
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Human Chorionic Gonadotropin", 
+        "id": 509
+    }, 
+    {
+        "text": "lab_abnm: Other Body Fluid__Hematology__Plasma", 
+        "id": 510
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Immunofixation", 
+        "id": 511
+    }, 
+    {
+        "text": "lab_abnm: BLOOD__HEMATOLOGY__PLASMGN", 
+        "id": 512
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Double Stranded DNA", 
+        "id": 513
+    }, 
+    {
+        "text": "lab_abnm: Pleural__Hematology__Promyelocytes", 
+        "id": 514
+    }, 
+    {
+        "text": "lab_abnm: Pleural__Hematology__Blasts", 
+        "id": 515
+    }, 
+    {
+        "text": "lab_abnm: Blood__Hematology__Monocyte Count", 
+        "id": 516
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Anti-Mitochondrial Antibody", 
+        "id": 517
+    }, 
+    {
+        "text": "lab_abnm: JOINT FLUID__HEMATOLOGY__MYELOS", 
+        "id": 518
+    }, 
+    {
+        "text": "lab_abnm: Ascites__Hematology__Young", 
+        "id": 519
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__H", 
+        "id": 520
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Anti-Neutrophil Cytoplasmic Antibody", 
+        "id": 521
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Sex Hormone Binding Globulin", 
+        "id": 522
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Cryoglobulin", 
+        "id": 523
+    }, 
+    {
+        "text": "lab_abnm: Ascites__Hematology__Blasts", 
+        "id": 524
+    }, 
+    {
+        "text": "lab_abnm: Other Body Fluid__Hematology__Promyelocytes", 
+        "id": 525
+    }, 
+    {
+        "text": "lab_abnm: Blood__Chemistry__Hepatitis B Surface Antibody", 
+        "id": 526
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__% Hemoglobin A1c", 
+        "id": 527
+    }, 
+    {
+        "text": "lab: Cerebrospinal Fluid (CSF)__Chemistry__<Albumin>", 
+        "id": 528
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__24 hr Calcium", 
+        "id": 529
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__24 hr Creatinine", 
+        "id": 530
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__24 hr Protein", 
+        "id": 531
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__25-OH Vitamin D", 
+        "id": 532
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Absolute A1c", 
+        "id": 533
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Absolute Hemoglobin", 
+        "id": 534
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Absolute Lymphocyte Count", 
+        "id": 535
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Acetaminophen", 
+        "id": 536
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Acid Phosphatase", 
+        "id": 537
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Alanine Aminotransferase (ALT)", 
+        "id": 538
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Albumin", 
+        "id": 539
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Alkaline Phosphatase", 
+        "id": 540
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Alpha-Fetoprotein", 
+        "id": 541
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__Alveolar-arterial Gradient", 
+        "id": 542
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Amikacin", 
+        "id": 543
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Ammonia", 
+        "id": 544
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Ammonium Biurate", 
+        "id": 545
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Amorphous Crystals", 
+        "id": 546
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Amphetamine Screen, Urine", 
+        "id": 547
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Amylase", 
+        "id": 548
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Amylase/Creatinine Ratio, Urine", 
+        "id": 549
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Anion Gap", 
+        "id": 550
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Anti-Gliadin Antibody, IgA", 
+        "id": 551
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Anti-Mitochondrial Antibody", 
+        "id": 552
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Anti-Neutrophil Cytoplasmic Antibody", 
+        "id": 553
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Anti-Nuclear Antibody", 
+        "id": 554
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Anti-Nuclear Antibody, Titer", 
+        "id": 555
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Anti-Parietal Cell Antibody", 
+        "id": 556
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Anti-Smooth Muscle Antibody", 
+        "id": 557
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Anti-Thyroglobulin Antibodies", 
+        "id": 558
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Anticardiolipin Antibody IgG", 
+        "id": 559
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Anticardiolipin Antibody IgM", 
+        "id": 560
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Antithrombin", 
+        "id": 561
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Arachadonic Acid", 
+        "id": 562
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Asparate Aminotransferase (AST)", 
+        "id": 563
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Barbiturate Screen", 
+        "id": 564
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Barbiturate Screen, Urine", 
+        "id": 565
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__Base Excess", 
+        "id": 566
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Benzodiazepine Screen", 
+        "id": 567
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Benzodiazepine Screen, Urine", 
+        "id": 568
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Beta-2 Microglobulin", 
+        "id": 569
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Bicarbonate", 
+        "id": 570
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Bilirubin, Direct", 
+        "id": 571
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Bilirubin, Indirect", 
+        "id": 572
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Bilirubin, Total", 
+        "id": 573
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Bleeding Time", 
+        "id": 574
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Blood", 
+        "id": 575
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Blood Culture Hold", 
+        "id": 576
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Blood Parasite Smear", 
+        "id": 577
+    }, 
+    {
+        "text": "lab: Stool__Hematology__Blood, Occult", 
+        "id": 578
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Broad Casts", 
+        "id": 579
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Burr Cells", 
+        "id": 580
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__C-Reactive Protein", 
+        "id": 581
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__C3", 
+        "id": 582
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__C4", 
+        "id": 583
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__CA-125", 
+        "id": 584
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Calcium, Total", 
+        "id": 585
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__Calculated Bicarbonate, Whole Blood", 
+        "id": 586
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Calculated TBG", 
+        "id": 587
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Calculated Thyroxine (T4) Index", 
+        "id": 588
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__Calculated Total CO2", 
+        "id": 589
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Carbamazepine", 
+        "id": 590
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__Carboxyhemoglobin", 
+        "id": 591
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Carcinoembyronic Antigen (CEA)", 
+        "id": 592
+    }, 
+    {
+        "text": "lab: Blood__Hematology__CD4 Cells, Percent", 
+        "id": 593
+    }, 
+    {
+        "text": "lab: Blood__Hematology__CD4/CD8 Ratio", 
+        "id": 594
+    }, 
+    {
+        "text": "lab: Blood__Hematology__CD8 Cells, Percent", 
+        "id": 595
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Cellular Cast", 
+        "id": 596
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Centromere", 
+        "id": 597
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Chloride", 
+        "id": 598
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__Chloride, Whole Blood", 
+        "id": 599
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__CK-MB Index", 
+        "id": 600
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Cocaine, Urine", 
+        "id": 601
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Collagen", 
+        "id": 602
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Cortisol", 
+        "id": 603
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Creatine Kinase (CK)", 
+        "id": 604
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Creatine Kinase, MB Isoenzyme", 
+        "id": 605
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Creatinine", 
+        "id": 606
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Creatinine Clearance", 
+        "id": 607
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Creatinine, Urine", 
+        "id": 608
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Cryoglobulin", 
+        "id": 609
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Cyclosporin", 
+        "id": 610
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__D-Dimer", 
+        "id": 611
+    }, 
+    {
+        "text": "lab: Blood__Hematology__D-Dimer", 
+        "id": 612
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__DHEA-Sulfate", 
+        "id": 613
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Digoxin", 
+        "id": 614
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Double Stranded DNA", 
+        "id": 615
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Elliptocytes", 
+        "id": 616
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Envelope Cells", 
+        "id": 617
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Eosinophil Count", 
+        "id": 618
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Eosinophils", 
+        "id": 619
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Epinepherine", 
+        "id": 620
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Epithelial Cells", 
+        "id": 621
+    }, 
+    {
+        "text": "lab: BLOOD__CHEMISTRY__Estimated Actual Glucose", 
+        "id": 622
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Estimated GFR (MDRD equation)", 
+        "id": 623
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Ethanol", 
+        "id": 624
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Ethanol, Urine", 
+        "id": 625
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Ferritin", 
+        "id": 626
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Fibrin Degradation Products", 
+        "id": 627
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Fibrinogen, Functional", 
+        "id": 628
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Folate", 
+        "id": 629
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Follicle Stimulating Hormone", 
+        "id": 630
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Fragmented Cells", 
+        "id": 631
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__Free Calcium", 
+        "id": 632
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Gamma Glutamyltransferase", 
+        "id": 633
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Gastrin", 
+        "id": 634
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Gentamicin", 
+        "id": 635
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__Glucose", 
+        "id": 636
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Glucose", 
+        "id": 637
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Glucose", 
+        "id": 638
+    }, 
+    {
+        "text": "lab: Cerebrospinal Fluid (CSF)__Chemistry__Glucose, CSF", 
+        "id": 639
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Granular Casts", 
+        "id": 640
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Granulocyte Count", 
+        "id": 641
+    }, 
+    {
+        "text": "lab: Blood__Hematology__H/O Smear", 
+        "id": 642
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Haptoglobin", 
+        "id": 643
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__HCG, Urine, Qualitative", 
+        "id": 644
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Heinz Body Prep", 
+        "id": 645
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Hematocrit", 
+        "id": 646
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__Hemoglobin", 
+        "id": 647
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Hemoglobin", 
+        "id": 648
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Hemosiderin", 
+        "id": 649
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Heparin", 
+        "id": 650
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Heparin, LMW", 
+        "id": 651
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Hepatitis A Virus Antibody", 
+        "id": 652
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Hepatitis A Virus IgM Antibody", 
+        "id": 653
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Hepatitis B Core Antibody, IgM", 
+        "id": 654
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Hepatitis B Surface Antibody", 
+        "id": 655
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Hepatitis B Surface Antigen", 
+        "id": 656
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Hepatitis B Virus Core Antibody", 
+        "id": 657
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Hepatitis C Virus Antibody", 
+        "id": 658
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__HIV Antibody", 
+        "id": 659
+    }, 
+    {
+        "text": "lab: Blood__Hematology__HLA-DR", 
+        "id": 660
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Homocysteine", 
+        "id": 661
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Howell-Jolly Bodies", 
+        "id": 662
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Human Chorionic Gonadotropin", 
+        "id": 663
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Hyaline Casts", 
+        "id": 664
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Hypochromia", 
+        "id": 665
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Inpatient Hematology/Oncology Smear", 
+        "id": 666
+    }, 
+    {
+        "text": "lab: Blood__Hematology__INR(PT)", 
+        "id": 667
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Iron", 
+        "id": 668
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Iron Binding Capacity, Total", 
+        "id": 669
+    }, 
+    {
+        "text": "lab: Bone Marrow__Hematology__Iron Stain", 
+        "id": 670
+    }, 
+    {
+        "text": "lab: Joint Fluid__Hematology__Joint Crystals, Birefringence", 
+        "id": 671
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Ketone", 
+        "id": 672
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__Lactate", 
+        "id": 673
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Lactate Dehydrogenase (LD)", 
+        "id": 674
+    }, 
+    {
+        "text": "lab: Ascites__Chemistry__Lactate Dehydrogenase, Ascites", 
+        "id": 675
+    }, 
+    {
+        "text": "lab: Cerebrospinal Fluid (CSF)__Chemistry__Lactate Dehydrogenase, CSF", 
+        "id": 676
+    }, 
+    {
+        "text": "lab: Pleural__Chemistry__Lactate Dehydrogenase, Pleural", 
+        "id": 677
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Large Platelets", 
+        "id": 678
+    }, 
+    {
+        "text": "lab: Other Body Fluid__Chemistry__LD, Body Fluid", 
+        "id": 679
+    }, 
+    {
+        "text": "lab: Joint Fluid__Chemistry__LD, Joint Fluid", 
+        "id": 680
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Leukocyte Alkaline Phosphatase", 
+        "id": 681
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Leukocytes", 
+        "id": 682
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Lipase", 
+        "id": 683
+    }, 
+    {
+        "text": "lab: Other Body Fluid__Chemistry__Lipase, Body Fluid", 
+        "id": 684
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Lithium", 
+        "id": 685
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Lupus Anticoagulant", 
+        "id": 686
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Luteinizing Hormone", 
+        "id": 687
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Lymphocytes", 
+        "id": 688
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Lymphocytes, Percent", 
+        "id": 689
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Magnesium", 
+        "id": 690
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Magnesium, Urine", 
+        "id": 691
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Marijuana", 
+        "id": 692
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Metamyelocytes", 
+        "id": 693
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Methadone, Urine", 
+        "id": 694
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__Methemoglobin", 
+        "id": 695
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Methotrexate", 
+        "id": 696
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Microcytes", 
+        "id": 697
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Monocytes", 
+        "id": 698
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Myelocytes", 
+        "id": 699
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Myoglobin, Urine", 
+        "id": 700
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__N-Acetylprocainamide (NAPA)", 
+        "id": 701
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Neutrophils", 
+        "id": 702
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Nitrite", 
+        "id": 703
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__NTproBNP", 
+        "id": 704
+    }, 
+    {
+        "text": "lab: Ascites__Hematology__Nucleated RBC", 
+        "id": 705
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Nucleated Red Cells", 
+        "id": 706
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__O2 Flow", 
+        "id": 707
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Opiate Screen, Urine", 
+        "id": 708
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Osmolality, Measured", 
+        "id": 709
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Osmolality, Urine", 
+        "id": 710
+    }, 
+    {
+        "text": "lab: Ascites__Hematology__Other", 
+        "id": 711
+    }, 
+    {
+        "text": "lab: Cerebrospinal Fluid (CSF)__Hematology__Other", 
+        "id": 712
+    }, 
+    {
+        "text": "lab: Joint Fluid__Hematology__Other", 
+        "id": 713
+    }, 
+    {
+        "text": "lab: Pleural__Hematology__Other", 
+        "id": 714
+    }, 
+    {
+        "text": "lab: Other Body Fluid__Hematology__Other Cell", 
+        "id": 715
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Other Cells", 
+        "id": 716
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__Oxygen", 
+        "id": 717
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__Oxygen Saturation", 
+        "id": 718
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Parathyroid Hormone", 
+        "id": 719
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__pCO2", 
+        "id": 720
+    }, 
+    {
+        "text": "lab: Other Body Fluid__Blood Gas__pCO2, Body Fluid", 
+        "id": 721
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__PEEP", 
+        "id": 722
+    }, 
+    {
+        "text": "lab: Cerebrospinal Fluid (CSF)__Chemistry__PEP, CSF", 
+        "id": 723
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__pH", 
+        "id": 724
+    }, 
+    {
+        "text": "lab: Other Body Fluid__Blood Gas__pH", 
+        "id": 725
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__pH", 
+        "id": 726
+    }, 
+    {
+        "text": "lab: Urine__Hematology__pH", 
+        "id": 727
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Phenobarbital", 
+        "id": 728
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Phenytoin", 
+        "id": 729
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Phenytoin, Free", 
+        "id": 730
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Phenytoin, Percent Free", 
+        "id": 731
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Phosphate", 
+        "id": 732
+    }, 
+    {
+        "text": "lab: Other Body Fluid__Chemistry__Phosphate, Body Fluid", 
+        "id": 733
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Phosphate, Urine", 
+        "id": 734
+    }, 
+    {
+        "text": "lab: Ascites__Hematology__Plasma", 
+        "id": 735
+    }, 
+    {
+        "text": "lab: Cerebrospinal Fluid (CSF)__Hematology__Plasma", 
+        "id": 736
+    }, 
+    {
+        "text": "lab: Other Body Fluid__Hematology__Plasma", 
+        "id": 737
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Plasma Cells", 
+        "id": 738
+    }, 
+    {
+        "text": "lab: Pleural__Hematology__Plasma Cells", 
+        "id": 739
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Platelet Clumps", 
+        "id": 740
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Platelet Count", 
+        "id": 741
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Platelet Smear", 
+        "id": 742
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__pO2", 
+        "id": 743
+    }, 
+    {
+        "text": "lab: Other Body Fluid__Blood Gas__pO2, Body Fluid", 
+        "id": 744
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Poikilocytosis", 
+        "id": 745
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Polychromasia", 
+        "id": 746
+    }, 
+    {
+        "text": "lab: Ascites__Hematology__Polys", 
+        "id": 747
+    }, 
+    {
+        "text": "lab: Cerebrospinal Fluid (CSF)__Hematology__Polys", 
+        "id": 748
+    }, 
+    {
+        "text": "lab: Joint Fluid__Hematology__Polys", 
+        "id": 749
+    }, 
+    {
+        "text": "lab: Other Body Fluid__Hematology__Polys", 
+        "id": 750
+    }, 
+    {
+        "text": "lab: Pleural__Hematology__Polys", 
+        "id": 751
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Porphobilinogen Screen", 
+        "id": 752
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Potassium", 
+        "id": 753
+    }, 
+    {
+        "text": "lab: Ascites__Chemistry__Potassium, Ascites", 
+        "id": 754
+    }, 
+    {
+        "text": "lab: Other Body Fluid__Chemistry__Potassium, Body Fluid", 
+        "id": 755
+    }, 
+    {
+        "text": "lab: Stool__Chemistry__Potassium, Stool", 
+        "id": 756
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Potassium, Urine", 
+        "id": 757
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__Potassium, Whole Blood", 
+        "id": 758
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Procainamide", 
+        "id": 759
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Prolactin", 
+        "id": 760
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Prostate Specific Antigen", 
+        "id": 761
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Prot. Electrophoresis, Urine", 
+        "id": 762
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Protein", 
+        "id": 763
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Protein C, Antigen", 
+        "id": 764
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Protein C, Functional", 
+        "id": 765
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Protein Electrophoresis", 
+        "id": 766
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Protein S, Antigen", 
+        "id": 767
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Protein S, Functional", 
+        "id": 768
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Protein, Total", 
+        "id": 769
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Protein/Creatinine Ratio", 
+        "id": 770
+    }, 
+    {
+        "text": "lab: Blood__Hematology__PT", 
+        "id": 771
+    }, 
+    {
+        "text": "lab: Blood__Hematology__PTT", 
+        "id": 772
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Quantitative G6PD", 
+        "id": 773
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Rapamycin", 
+        "id": 774
+    }, 
+    {
+        "text": "lab: Urine__Hematology__RBC", 
+        "id": 775
+    }, 
+    {
+        "text": "lab: Urine__Hematology__RBC Casts", 
+        "id": 776
+    }, 
+    {
+        "text": "lab: Joint Fluid__Hematology__RBC, Joint Fluid", 
+        "id": 777
+    }, 
+    {
+        "text": "lab: Other Body Fluid__Hematology__RBC, Other Fluid", 
+        "id": 778
+    }, 
+    {
+        "text": "lab: Pleural__Hematology__RBC, Pleural", 
+        "id": 779
+    }, 
+    {
+        "text": "lab: Blood__Hematology__RDW", 
+        "id": 780
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Red Blood Cell Fragments", 
+        "id": 781
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Red Blood Cells", 
+        "id": 782
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Renal Epithelial Cells", 
+        "id": 783
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Reptilase Time", 
+        "id": 784
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Reptilase Time Control", 
+        "id": 785
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__Required O2", 
+        "id": 786
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Reticulocyte Count, Automated", 
+        "id": 787
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Reticulocyte Count, Manual", 
+        "id": 788
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Rheumatoid Factor", 
+        "id": 789
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Ristocetin", 
+        "id": 790
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Salicylate", 
+        "id": 791
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Schistocytes", 
+        "id": 792
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Sedimentation Rate", 
+        "id": 793
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Sex Hormone Binding Globulin", 
+        "id": 794
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Sickle Cell Preparation", 
+        "id": 795
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Sickle Cells", 
+        "id": 796
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Sodium", 
+        "id": 797
+    }, 
+    {
+        "text": "lab: Ascites__Chemistry__Sodium, Ascites", 
+        "id": 798
+    }, 
+    {
+        "text": "lab: Other Body Fluid__Chemistry__Sodium, Body Fluid", 
+        "id": 799
+    }, 
+    {
+        "text": "lab: Pleural__Chemistry__Sodium, Pleural", 
+        "id": 800
+    }, 
+    {
+        "text": "lab: Stool__Chemistry__Sodium, Stool", 
+        "id": 801
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Sodium, Urine", 
+        "id": 802
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__Sodium, Whole Blood", 
+        "id": 803
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Specific Gravity", 
+        "id": 804
+    }, 
+    {
+        "text": "lab: BLOOD__BLOOD GAS__SPECIMEN TYPE", 
+        "id": 805
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Sulfonamides", 
+        "id": 806
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__tacroFK", 
+        "id": 807
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Target Cells", 
+        "id": 808
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Teardrop Cells", 
+        "id": 809
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__Temperature", 
+        "id": 810
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Testosterone", 
+        "id": 811
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Testosterone, Free", 
+        "id": 812
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Theophylline", 
+        "id": 813
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Thrombin", 
+        "id": 814
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Thyroglobulin", 
+        "id": 815
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Thyroid Peroxidase Antibodies", 
+        "id": 816
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Thyroid Stimulating Hormone", 
+        "id": 817
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Thyroxine (T4)", 
+        "id": 818
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Thyroxine (T4), Free", 
+        "id": 819
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__Tidal Volume", 
+        "id": 820
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Tissue Transglutaminase Ab, IgA", 
+        "id": 821
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Tobramycin", 
+        "id": 822
+    }, 
+    {
+        "text": "lab: Ascites__Chemistry__Total Protein, Ascites", 
+        "id": 823
+    }, 
+    {
+        "text": "lab: Other Body Fluid__Chemistry__Total Protein, Body Fluid", 
+        "id": 824
+    }, 
+    {
+        "text": "lab: Cerebrospinal Fluid (CSF)__Chemistry__Total Protein, CSF", 
+        "id": 825
+    }, 
+    {
+        "text": "lab: Joint Fluid__Chemistry__Total Protein, Joint Fluid", 
+        "id": 826
+    }, 
+    {
+        "text": "lab: Pleural__Chemistry__Total Protein, Pleural", 
+        "id": 827
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Total Protein, Urine", 
+        "id": 828
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Transferrin", 
+        "id": 829
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Transitional Epithelial Cells", 
+        "id": 830
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Trichomonas", 
+        "id": 831
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Tricyclic Antidepressant Screen", 
+        "id": 832
+    }, 
+    {
+        "text": "lab: Other Body Fluid__Chemistry__Triglycer", 
+        "id": 833
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Triglycerides", 
+        "id": 834
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Triiodothyronine (T3)", 
+        "id": 835
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Triple Phosphate Crystals", 
+        "id": 836
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Troponin I", 
+        "id": 837
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Troponin T", 
+        "id": 838
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Urea Nitrogen", 
+        "id": 839
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Urea Nitrogen, Urine", 
+        "id": 840
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Uric Acid", 
+        "id": 841
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Uric Acid Crystals", 
+        "id": 842
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Uric Acid, Urine", 
+        "id": 843
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Urine Color", 
+        "id": 844
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Urine Creatinine", 
+        "id": 845
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Urine Crystals, Other", 
+        "id": 846
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Urine Volume", 
+        "id": 847
+    }, 
+    {
+        "text": "lab: Urine__Chemistry__Urine Volume, Total", 
+        "id": 848
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Urobilinogen", 
+        "id": 849
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Valproic Acid", 
+        "id": 850
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Vancomycin", 
+        "id": 851
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__Ventilation Rate", 
+        "id": 852
+    }, 
+    {
+        "text": "lab: Blood__Blood Gas__Ventilator", 
+        "id": 853
+    }, 
+    {
+        "text": "lab: Blood__Chemistry__Vitamin B12", 
+        "id": 854
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Von Willebrand Factor Activity", 
+        "id": 855
+    }, 
+    {
+        "text": "lab: Blood__Hematology__Von Willebrand Factor Antigen", 
+        "id": 856
+    }, 
+    {
+        "text": "lab: Urine__Hematology__WBC", 
+        "id": 857
+    }, 
+    {
+        "text": "lab: Urine__Hematology__WBC Casts", 
+        "id": 858
+    }, 
+    {
+        "text": "lab: Urine__Hematology__WBC Clumps", 
+        "id": 859
+    }, 
+    {
+        "text": "lab: Blood__Hematology__WBC Count", 
+        "id": 860
+    }, 
+    {
+        "text": "lab: Ascites__Hematology__WBC, Ascites", 
+        "id": 861
+    }, 
+    {
+        "text": "lab: Cerebrospinal Fluid (CSF)__Hematology__WBC, CSF", 
+        "id": 862
+    }, 
+    {
+        "text": "lab: Joint Fluid__Hematology__WBC, Joint Fluid", 
+        "id": 863
+    }, 
+    {
+        "text": "lab: Other Body Fluid__Hematology__WBC, Other Fluid", 
+        "id": 864
+    }, 
+    {
+        "text": "lab: Pleural__Hematology__WBC, Pleural", 
+        "id": 865
+    }, 
+    {
+        "text": "lab: Blood__Hematology__White Blood Cells", 
+        "id": 866
+    }, 
+    {
+        "text": "lab: Urine__Hematology__Yeast", 
+        "id": 867
+    }
+]
