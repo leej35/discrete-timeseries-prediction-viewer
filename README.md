@@ -2,7 +2,7 @@
 A web based viewer for discrete event prediction in time-series.
 
 Demo: <https://intense-waters-97573.herokuapp.com/>
-
+![](demo.png)
 ## How to run on Heroku
 
 After download files and put them into `deploy_web` folder. And inside the folder:
